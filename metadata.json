@@ -1,0 +1,6 @@
+{
+  "name": "Naija Repota",
+  "description": "Naija Repota - Authentic Pidgin news platform with real-time news, sports gist, as e dey hot breaking stories, pictures and videos.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
